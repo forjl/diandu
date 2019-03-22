@@ -1,0 +1,22 @@
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+nav.navbar.navbar-expand-lg {
+    margin-bottom: 20px;
+}
+#bg {
+  background:url(pic/bg.jpg);
+}
+#cardcard{
+  border-radius:5px 5px 5px 5px;
+  background: rgba(0,0,0, 0.2);
+  padding-left:30px;
+  padding-top:20px;
+  height:70px;
+  font-size:20px;
+}
