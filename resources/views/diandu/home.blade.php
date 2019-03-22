@@ -20,7 +20,7 @@
       <img src="pic/2.jpg">
     </div>
     <div class="carousel-item">
-      <img src="pic/3.jpg">
+      <img src="pic/3.jpeg">
     </div>
   </div>
 
